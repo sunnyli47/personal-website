@@ -1,0 +1,38 @@
+---
+title: Thoughts about Social Media and Addiction
+author: Sunny Li
+date: '2021-03-05'
+slug: thoughts-about-social-media-and-addiction
+categories:
+  - Thoughts
+tags:
+  - Social Media
+description: Can I escape the social media addiction?
+image: "social-media-and-addiction-bg.jpeg"
+math: ~
+license: ~
+hidden: no
+comments: yes
+---
+
+This is from an excerpt of a letter I wrote to Mom:
+ 
+"Sorry for not being able to reply to your letters, I was quite busy with my homeworks and dues in the past two days, and I also realized that I started to get more and more addicted to my phone again. But please don't worry, after learning about how our brain works and the mechanism of addiction from [*The Social Dilemma*](https://www.youtube.com/watch?v=uaaC57tcci0), my cognitive science classes and countless [*The Happiness Lab*](https://www.happinesslab.fm/) podcast episodes, I clearly see how my mind, my brain and my body respond to it. Yes, addiction **sucks**, but that's why I decided to write it down and talk about it. 
+
+## How did I become addictive of social media?
+
+I wanted to first discuss how my addiction happened this time. But before this, I would like to introduce a concept called "Borrowing an Ego", which in my opinion, heavily relates to the cause of my addiction. I learned about it from the book [*The Defining Decades*](https://megjay.com/the-defining-decade/) and basically, what it says, from my understanding, is that you rely on other people, their brains and reasoning, to do the work that your brain is supposed to do. Especially when you are experiencing negative feelings such as being frustrated, anxious and nervous, you want to take a break and seek comfort. There is nothing wrong about it as it is an almost intuitive and natural reaction that our brains take to protect us from feeling uncomfortable. However, to extend this concept further and make it more applicable to the age we're living in right now, I think the "other people" can also be anything other than yourself, like your phone, social media platforms and the internet. And that's when the thing started to go wrong. As you know, I had an exceedingly high amount of stress and anxiety in the beginning of this quarter due to pledging; and as I was feeling hopeless, it certainly triggered that defense mechanism of my brain and led me to escape those emotions for a while. So while I reached out to the real people for support, I started constantly checking my instagram, reddit and other social platforms. I even opened my friends circle on Wechat to take a peek at what others are doing, which was something I had not done in months. And different from "borrowing an ego" from a real person, "borrowing an ego" (I don't even know if it should even be called an ego, or probably hundreds and thousands of egos
+) from social platforms give you emptiness and even more anxiety after those mindless scrolling ends. In a short two weeks, I officially fell into this vicious cycle of feeling stressed, picking up the phone and scrolling, and feeling stressed again. Looking back, I thought I was not that addicted at first. But like the drug, the addiction built up slowly and it could easily go from a five-minute message check to an hour lying on bed doing a single motion of swiping your right thumb on the screen. In the Netflix documentary *The Social Dilemma*, when the boy made a promise with his mom for not using his phone for a week, he constantly feels bored but doesn't know what else he could do. As we step into this digital age, we are losing our ability to cope with all kinds of emotions-- loneliness, fear, uncertainty. And as I am writing this, I realized something new, that digital devices are not only taking away our ability to cope with negative feelings, but also the positive ones. What are some other ways of celebration you can think of that excites you more than posting on social media after winning a trophy or finishing a run??? Tristan Harris, one of the speakers in the documentary, even refers to "digital devices" as "digital pacifiers". 
+
+## What's the problem?
+
+Essentially, I think the ability we're losing and causing all those problems is our **ability to self-talk**. Talking with yourself is something that we do naturally but it doesn't mean we know how to talk with ourselves positively. This is one thing I learned not long ago and I found it to be a transforming experience-- it saves me from being stressed out and insecure, from staying up late, from being inactive and from getting out of control of my emotions. I also found that when I was addicted to my phone, I tended to do those positive self-talks less and less; and my mind was flooded with more of those negative and unhealthy self-talks which induce bad behaviors and habits. (This is one of the biggest insights I got and I am really proud of finding it!)
+
+## How to break from the addiction?
+
+After getting to know the reasons behind, now the most urgent question being, HOW, how to break from the addiction. The first method I've come up with is writing, which is what I am doing right now. Addiction happens again and again because we often forget things, and that's why I think it's necessary to record those thoughts, feelings and reflections so that I could easily track back in the future. I won't have to go through the whole reasoning process and try to persuade my brain and show it what is good and what is bad. It is right there because I've already written it down. Second, reading. I'm more and more aware of how irreplaceable books are and how important reading is in our life. Surely some posts from social media are inspiring but it is important to keep in mind that our brains are not advanced enough to capture and hold those chunks of useful info from thousands of useless info. On top of that, one of the most significant characteristics of learning is repetition and I don't think it is that possible for one to constantly go back to the same content while there are thousands of new and exciting "simulators" out there waiting to be explored. I finished the book "The Defining Decade" during the first two hours of my flight to LA and I read about 70 pages in two hours! I never knew I was able to read that many and be so immersed into the content of the book because I always got distracted. I hope I can keep doing the same in the future.
+ 
+Besides writing and reading, I am also doing a detox from my phone just to completely get rid of the addiction. From now on I will only be using my laptop and ipad for necessary purposes. I hid my phone in my closet so it is out of my sight and I won't be tempted to grab it. Addiction is insanely crazy because earlier when I was going to the bathroom, the second I stood up I unconsciously started looking for my phone before I realized I hid it somewhere else. This "stand up and look for phone" motion has been programmed into my brain and now it's time to break it up. If this process is going well, I am also planning on doing a detox from all of the screens (laptop, ipad and iphone) for a day. 
+ 
+There is so much to talk about when it comes to the use of digital devices and social media platforms. I hope you're not getting tired of reading this LONG letter and I would love to hear what you think! To be honest, organizing my thoughts and writing them out is way harder than just thinking about them in my head, but I found it to be rewarding and worthy. This letter is not just a letter, it's more like a reminder and a reference for my future self because I feel like this is going to be a recurring issue that we are probably gonna deal with in the rest of our lives.""
+
